@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently looking for internship near Tangerang Selatan, Indonesia
+- 🌱 I’m currently learning Learning about Mobile App Developing
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: billyhasman08@gmail.com
+- 😄 Pronouns: Indonesia
+- ⚡ Fun fact: Still learn to clean code
  
