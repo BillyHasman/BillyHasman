@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently looking for internship near Tangerang Selatan, Indonesia
-- 🌱 I’m currently learning Learning about Mobile App Developing
+- 🔭 I’m currently internship at Alta Indonesia
+- 🌱 I’m currently learning Learning about React & Phyton
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
