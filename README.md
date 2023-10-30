@@ -1,21 +1,6 @@
-### Hi there 👋
-
-
-<!-- **BillyHasman/BillyHasman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working at PT Alta Teknology Indonesia
-- 🌱 I’m currently learning Learning about Laravel, Reactjs & Inertia
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: billyhasman08@gmail.com
-- 😄 Pronouns: Indonesia
-<!-- - ⚡ Fun fact: i can print "hello world" blindfolded -->
+ ### Hi there 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/qUbApEc">
+ <!-- <a href="https://discord.gg/qUbApEc">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/geeky_abhiz">
@@ -37,42 +22,47 @@ Here are some ideas to get you started: -->
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+-->
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=billyhasman.billyhasman) -->
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Billy](https://billyhasman.github.io), a Full Stack Developer 🚀 from Indonesia, currently, I'm a part of social media agency 🙍🏽‍♂️ [Nukeeds](https://www.instagram.com/nukeeds/), Fulltime at 👨🏽‍💻 [Alta Teknologi Indonesia](https://altateknologi.com), Video and Photographer 👨🏽‍💼[Niftyvideo_23](https://www.youtube.com/@niftyvideo2370) Beside's working, i have music band called [Omar & The Bilden](https://open.spotify.com/artist/2MdlLR4VpdZY7ajoN3SkXx?si=I4F7pHBKRWGbyp1FqcwB1w).
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@geeky_abhiz](https://twitter.com/geeky_abhiz);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 👨🏽‍💻 I’m currently working on HRIS project;
+- 🌱 I’m currently learning Laravel, ReactJS and Inertia; 
+  <!-- - 💬 Ask me about anything, I am happy to help; -->
+- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"> How to reach me: [@billyhasman_23](https://www.instagram.com/billyhasman_23/);
+- 📝[Resume](https://drive.google.com/file/d/1OB1h7nOwdbV-8Jrq8Q8myjE7Nxna3jvM/view?usp=sharing)
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://www.cdnlogo.com/logos/c/27/c.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Billyhasman&show_icons=true&theme=gotham" alt="billyhasman" />
 
 </details>
 
 -----
-Credits: [abhisheknaiidu](https://github.com/abhisheknaiidu)
+<!-- Credits: [Billyhasman](https://github.com/Billyhasman) -->
 
-Last Edited on: 30/08/2020
+Last Updated on: 30/10/2023
