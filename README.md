@@ -56,11 +56,11 @@ Hi, I'm [Billy](https://billyhasman.github.io), a Full Stack Developer 🚀 from
 <code><img height="20" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
-<summary>📈 My GitHub Stats</summary>
+<!--<summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Billyhasman&show_icons=true&theme=gotham" alt="billyhasman" />
 
-</details>
+</details> -->
 
 -----
 <!-- Credits: [Billyhasman](https://github.com/Billyhasman) -->
