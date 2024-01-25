@@ -34,8 +34,8 @@ Hi, I'm [Billy](https://billyhasman.github.io), a Full Stack Developer 🚀 from
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on HRIS project;
-- 🌱 I’m currently learning Laravel, ReactJS and Inertia; 
+- 👨🏽‍💻 currently working on HRIS project;
+- 🌱 currently learning Laravel, ReactJS and Inertia; 
   <!-- - 💬 Ask me about anything, I am happy to help; -->
 - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"> How to reach me: [@billyhasman_23](https://www.instagram.com/billyhasman_23/);
 - 📝[Resume](https://drive.google.com/file/d/1OB1h7nOwdbV-8Jrq8Q8myjE7Nxna3jvM/view?usp=sharing)
